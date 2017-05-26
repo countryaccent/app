@@ -13,11 +13,11 @@
     }
     .link {
         position: fixed;
-        right: 0;
-        width: 100px;
-        height: 100px;
+        left: 0;
+        width: 80px;
+        height: 80px;
         background-color: #CCC;
-        top: 400px;
+        bottom: 50px;
     }
 </style>
 
